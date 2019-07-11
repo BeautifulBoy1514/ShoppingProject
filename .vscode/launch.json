@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunApplication",
+            "request": "launch",
+            "mainClass": "com.igeek.app.RunApplication",
+            "projectName": "ShoppingProject",
+            "console": "externalTerminal"
+        }
+    ]
+}
